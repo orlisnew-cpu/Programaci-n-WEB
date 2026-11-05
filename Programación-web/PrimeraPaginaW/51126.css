@@ -1,0 +1,32 @@
+body{
+	
+		background-color:grey;
+
+
+}
+div{
+	width:550px;
+	height:420px;
+background-color:orange;
+
+}
+
+
+
+h1 {
+ color:black;
+ text-align:center;
+
+
+}
+p{
+
+}
+#parrafo{
+	background-color:white;
+	margin-left:10%;
+	margin-right:10%;
+	padding:10px;
+	
+	text-align:justify;
+	}

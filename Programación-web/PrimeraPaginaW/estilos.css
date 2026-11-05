@@ -1,9 +1,28 @@
+
+body{
+	
+		background-color:grey;
+
+
+}
+div{
+	width:450px;
+	height:170px;
+background-color:orange;
+text-align:center;
+text-align:justify;
+background-image:images.jpg;
+}
+
+
+
 h1 {
- color:orange;
-border:2px solid grey;
+ color:white;
+
+text-indent:25px;
 }
 p{
-border:2px solid black;
+
 text-align:justify;
 text-indent:25px;
 word-spacing:8px;
