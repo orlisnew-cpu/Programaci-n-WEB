@@ -1,0 +1,41 @@
+body{
+	background-color:grey;
+}
+h1{
+background-image:url(images.jpg)
+}
+#login{
+	height:200px;
+	width:200px ;
+	background-color:grey;
+}
+form{
+border-bottom-style: solid  ;
+border-bottom-color:orange;
+border-collapse:1px solid;
+}
+a{
+	 color:orange;
+}
+.alv{
+border:1px solid red;
+}
+#boton{
+	background-color:orange;
+}
+
+#lista{
+	
+	background-color:grey;
+	border-left-style: solid  ;
+	border-left-color: white  ;
+	
+	}
+	ul{
+		width:80px;
+	background-color:orange;
+	}
+	li{
+	List-style-type:upper-roman;	
+	}
+

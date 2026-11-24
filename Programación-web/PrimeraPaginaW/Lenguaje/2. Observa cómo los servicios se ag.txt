@@ -1,0 +1,22 @@
+2. Observa cómo los servicios se agrupan en categorías de servicio.
+Por ejemplo, el servicio Elastic Compute Cloud (EC2) aparece en la categoría de Servicio de Cómputo -> Informática.
+a. ¿Bajo qué categoría de servicio aparece el servicio IAM?
+	- Seguridad, identidad y conformidad
+b. ¿Bajo qué categoría de servicio aparece el servicio Amazon VPC?
+	- Redes y entrega de contenido
+
+3. Haz clic en el servicio de Amazon VPC. Observa que el menú desplegable de la esquina superior derecha muestra la región de AWS. Haz clic en el menú Región y cambia a una región diferente. Por ejemplo, elija EU (Londres).
+
+
+4. Haz clic en Subred. La región cuenta con tres subredes. Haz clic en una de las casillas situadas sobre una de las subredes y observa que la mitad inferior de la pantalla muestra ahora detalles sobre esta subred.
+a. ¿La subred seleccionada existe a nivel de región o a nivel de zona de disponibilidad?
+	- Existe a nivel de zona de disponibilidad
+
+5. Haz clic en Sus VPC y selecciona una existente.
+a. ¿Existe la VPC a nivel de región o a nivel de zona de disponibilidad?
+	- No existe ni a nivel de región, ni a nivel de zona de disponibilidad
+b. ¿Qué servicios son globales en lugar de regionales? Consulta Amazon EC2, IAM, Lambda y Route 53.
+	-> Amazon EC2 = Regional
+	-> IAM = Global
+	-> Lambda = Regional
+	-> Route 53 = Global
